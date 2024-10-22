@@ -1,5 +1,6 @@
 let vitorias = 110; 
-let derrotas = 25; 
+let derrotas = 25
+; 
 
 function calcularNivel(vitorias, derrotas) {
     let saldoVitorias = vitorias - derrotas;
